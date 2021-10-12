@@ -1,1 +1,0 @@
-Community Crowdfunding System Proposals
