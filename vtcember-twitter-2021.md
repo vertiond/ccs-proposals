@@ -1,6 +1,6 @@
 ---
 layout: fr
-title: #VTCember Twitter Giveaway 2021
+title: VTCember Twitter Giveaway 2021
 author: Alvie
 date: November 22, 2021
 amount: 775
