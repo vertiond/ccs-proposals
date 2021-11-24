@@ -57,3 +57,5 @@ The main milestone is 775 VTC for 2 users winning 12.5 VTC per day.
 The can be extended to 1162.5 for 3 users, or 1550 for 4 users, etc
 
 Funding can continue past 31st December 2021 as my own funds will be used, and I only expect to receive the payout after the event is over. Any excess funds will not be kept and can be redirected to other efforts
+
+Funding address: [vtc1qptl8hu9wvy8qyhljngtxx69vaxfrg5t3tx2z99r69dumf33juq6s4nzv9e](https://chainz.cryptoid.info/vtc/address.dws?vtc1qptl8hu9wvy8qyhljngtxx69vaxfrg5t3tx2z99r69dumf33juq6s4nzv9e.htm)
