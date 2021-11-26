@@ -17,6 +17,8 @@ payouts:
 **OVERFUNDING**  
 As the initial goal of 775 VTC has been reached, we are now approaching our next giveaway milestone of 1162.5 VTC. This will allow a giveaway of 12.5 VTC to 3 users per day!
 
+Funding address: [vtc1qptl8hu9wvy8qyhljngtxx69vaxfrg5t3tx2z99r69dumf33juq6s4nzv9e](https://chainz.cryptoid.info/vtc/address.dws?vtc1qptl8hu9wvy8qyhljngtxx69vaxfrg5t3tx2z99r69dumf33juq6s4nzv9e.htm)
+
 # What the proposal is about.
 This proposal is for a Twitter giveaway using the hashtag "#VTCember" in order to market the halving as well as celebrations for the holiday period.
 As the halving will reduce the block reward from 25 VTC to 12.5 VTC, it would be symbolic to give away 12.5 VTC.
