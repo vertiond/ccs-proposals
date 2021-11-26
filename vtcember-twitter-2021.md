@@ -3,23 +3,13 @@ layout: wip
 title: VTCember Twitter Giveaway 2021
 author: Alvie
 date: November 22, 2021
-amount: 1162.5
+amount: 775
 milestones:
-  - name: Initial Giveaway amount (2x users 12.5 VTC per day)
-    funds: 100% (775 VTC)
-    done: November 24, 2021
-    status: finished
-  - name: 3x users 12.5 VTC per day
-    funds: 150% (1162.5 VTC)
-    done:
-    status: unfinished
-  - name: 4x users 12.5 VTC per day
-    funds: 200% (1550 VTC)
+  - name: Giveaway completed (2021-12-31)
+    funds: 100%
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
   - date:
     amount:
 ---
@@ -58,8 +48,7 @@ Hopefully, this twitter marketing will serve its purpose to show many users Vert
 - etc
 
 # Your milestones and projected timeline
-The main milestone is 775 VTC for 2 users winning 12.5 VTC per day.
-The can be extended to 1162.5 for 3 users, or 1550 for 4 users, etc
+The milestone is for all necessary funds contributed to be given away by the end of 2021. This will be complete once a giveaway has been done for each day of December 2021. Excess funds may be forwarded to future proposals.
 
 Funding can continue past 31st December 2021 as my own funds will be used, and I only expect to receive the payout after the event is over. Any excess funds will not be kept and can be redirected to other efforts
 
