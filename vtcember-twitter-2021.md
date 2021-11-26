@@ -3,12 +3,12 @@ layout: wip
 title: VTCember Twitter Giveaway 2021
 author: Alvie
 date: November 22, 2021
-amount: 775
+amount: 1162.5
 milestones:
   - name: Initial Giveaway amount (2x users 12.5 VTC per day)
     funds: 100% (775 VTC)
-    done:
-    status: unfinished
+    done: November 24, 2021
+    status: finished
   - name: 3x users 12.5 VTC per day
     funds: 150% (1162.5 VTC)
     done:
@@ -24,6 +24,9 @@ payouts:
     amount:
 ---
 
+**OVERFUNDING**  
+As the initial goal of 775 VTC has been reached, we are now approaching our next giveaway milestone of 1162.5 VTC. This will allow a giveaway of 12.5 VTC to 3 users per day!
+
 # What the proposal is about.
 This proposal is for a Twitter giveaway using the hashtag "#VTCember" in order to market the halving as well as celebrations for the holiday period.
 As the halving will reduce the block reward from 25 VTC to 12.5 VTC, it would be symbolic to give away 12.5 VTC.
@@ -37,6 +40,8 @@ Rules as of right now will be (may be subject to change):
 1. Anti-spam measures such as Account Age / Profile (Picture / Description) / Minimums (e.g. Followers / Following)
 1. Multiple uses of the hashtag per day will not result in more entries (or perhaps capped at a certain number)
 1. User cannot win more than once
+
+Different rules may apply to different days depending on type (e.g. artwork context / riddle / meme / other). Different types of giveaways may be done per day.
 
 # Who will complete the proposal?
 This proposal will be completed by me (Alvie, /u/HyperGamers, AlvieMahmud#9999).
