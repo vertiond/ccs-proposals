@@ -1,28 +1,24 @@
 ---
-layout: wip
+layout: fr
 title: VTCember Twitter Giveaway 2021
 author: Alvie
 date: November 22, 2021
-amount: 775
+amount: 1162.5
 milestones:
-  - name: Initial Giveaway amount (2x users 12.5 VTC per day)
-    funds: 100% (775 VTC)
-    done:
-    status: unfinished
-  - name: 3x users 12.5 VTC per day
-    funds: 150% (1162.5 VTC)
-    done:
-    status: unfinished
-  - name: 4x users 12.5 VTC per day
-    funds: 200% (1550 VTC)
+  - name: Giveaway completed (2021-12-31)
+    funds: 100%
     done:
     status: unfinished
 payouts:
   - date:
     amount:
-  - date:
-    amount:
 ---
+
+# GOAL REACHED! GIVEAWAY WILL PROCEED - OVERFUNDING; PLEASE READ
+The initial goal of 775 VTC has been reached, so we can go ahead with the giveaway!  
+We are now approaching our next giveaway milestone of 1162.5 VTC. This will allow a giveaway of 12.5 VTC to 3 users per day if reached! If not reached, excess funds can be redirected to future proposals, or partial amount can be used for an extra one-off giveaway (e.g. guess halving block time contest)
+
+Funding address: [vtc1qptl8hu9wvy8qyhljngtxx69vaxfrg5t3tx2z99r69dumf33juq6s4nzv9e](https://chainz.cryptoid.info/vtc/address.dws?vtc1qptl8hu9wvy8qyhljngtxx69vaxfrg5t3tx2z99r69dumf33juq6s4nzv9e.htm)
 
 # What the proposal is about.
 This proposal is for a Twitter giveaway using the hashtag "#VTCember" in order to market the halving as well as celebrations for the holiday period.
@@ -37,6 +33,8 @@ Rules as of right now will be (may be subject to change):
 1. Anti-spam measures such as Account Age / Profile (Picture / Description) / Minimums (e.g. Followers / Following)
 1. Multiple uses of the hashtag per day will not result in more entries (or perhaps capped at a certain number)
 1. User cannot win more than once
+
+Different rules may apply to different days depending on type (e.g. artwork context / riddle / meme / other). Different types of giveaways may be done per day.
 
 # Who will complete the proposal?
 This proposal will be completed by me (Alvie, /u/HyperGamers, AlvieMahmud#9999).
@@ -53,8 +51,7 @@ Hopefully, this twitter marketing will serve its purpose to show many users Vert
 - etc
 
 # Your milestones and projected timeline
-The main milestone is 775 VTC for 2 users winning 12.5 VTC per day.
-The can be extended to 1162.5 for 3 users, or 1550 for 4 users, etc
+The milestone is for all necessary funds contributed to be given away by the end of 2021. This will be complete once a giveaway has been done for each day of December 2021. Excess funds may be forwarded to future proposals.
 
 Funding can continue past 31st December 2021 as my own funds will be used, and I only expect to receive the payout after the event is over. Any excess funds will not be kept and can be redirected to other efforts
 
