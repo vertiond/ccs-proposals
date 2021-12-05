@@ -1,9 +1,9 @@
 ---
-layout: fr
+layout: wip
 title: VTCember Twitter Giveaway 2021
 author: Alvie
 date: November 22, 2021
-amount: 1550
+amount: 1162.5
 milestones:
   - name: Giveaway completed (2021-12-31)
     funds: 100%
@@ -14,9 +14,9 @@ payouts:
     amount:
 ---
 
-# SECOND GOAL REACHED! GIVEAWAY WILL PROCEED - OVERFUNDING; PLEASE READ
+# SECOND GOAL REACHED! GIVEAWAY WILL PROCEED; PLEASE READ
 The second goal of 1162.5 VTC has been reached and we can go ahead with the giveaway!  
-We are now approaching our next giveaway milestone of 1550 VTC. This will allow a giveaway of 12.5 VTC to 4 users per day if reached! If not reached, excess funds can be redirected to future proposals, or partial amount can be used for an extra one-off giveaway (e.g. guess halving block time contest)
+It has been stable around the second goal (1180.22 VTC) which allows 3 winners per day :) The proposal will now be moved from funding required to Work In Progress. The giveaways have started on https://twitter.com/cryptovertedcom
 
 Funding address: [vtc1qptl8hu9wvy8qyhljngtxx69vaxfrg5t3tx2z99r69dumf33juq6s4nzv9e](https://chainz.cryptoid.info/vtc/address.dws?vtc1qptl8hu9wvy8qyhljngtxx69vaxfrg5t3tx2z99r69dumf33juq6s4nzv9e.htm)
 
