@@ -10,6 +10,8 @@ milestones:
     done:
     status: unfinished
 payouts:
+  - date: December 10, 2021
+    amount: 1000.9797
   - date:
     amount:
 ---
