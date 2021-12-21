@@ -7,8 +7,8 @@ amount: 600
 milestones:
   - name: LLC filed
     funds: 300 VTC
-    done:
-    status: unfinished
+    done: December 20, 2021
+    status: finished
   - name: Certificate issued
     funds: 300 VTC
     done:
@@ -21,7 +21,8 @@ payouts:
 ---
 # Updates
 
-- Vertcoin Project Code Signing LLC filing was mailed to MN Secretary of State on November 29th - processing takes 5 - 7 business days upon receipt 
+- December 20, 2021 - Vertcoin Project Code Signing LLC is [registered](https://mblsportal.sos.state.mn.us/Business/SearchDetails?filingGuid=6c90bdad-c661-ec11-91b6-00155d32b93a) 
+- November 29, 2021 - Vertcoin Project Code Signing LLC filing was mailed to MN Secretary of State on November 29th - processing takes 5 - 7 business days upon receipt 
 
 # Proposal
 
