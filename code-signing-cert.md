@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Certificate for Code Signing
 author: vertion
 date: November 29, 2021
@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: Certificate issued
     funds: 300 VTC
-    done:
-    status: unfinished
+    done: January 21, 2022
+    status: finished
 payouts:
   - date:
     amount:
@@ -21,6 +21,8 @@ payouts:
 ---
 # Updates
 
+- January 22, 2022 - Certificate added to Vertcoin-Core by [pull request](https://github.com/vertcoin-project/vertcoin-core/pull/167)
+- January 21, 2022 - Code Signing Certificate issued
 - December 22, 2021 - Code Signing Certificate with Comodo paid for and being validated
 - December 20, 2021 - Vertcoin Project Code Signing LLC is [registered](https://mblsportal.sos.state.mn.us/Business/SearchDetails?filingGuid=6c90bdad-c661-ec11-91b6-00155d32b93a) 
 - November 29, 2021 - Vertcoin Project Code Signing LLC filing was mailed to MN Secretary of State on November 29th - processing takes 5 - 7 business days upon receipt 
