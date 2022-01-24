@@ -5,12 +5,13 @@ author: vertion
 date: January, 24, 2022
 amount: 375
 milestones:
-- name: Apple Developer Program Membership (1 year)
-  funds: 375 VTC
-  done:
-  status: unfinished
-- date:
-  amount:
+  - name: Apple Developer Program Membership (1 year)
+    funds: 375 VTC
+    done:
+    status: unfinished
+payouts:
+  - date:
+    amount:
 ---
 The last proposal for a code signing certificate [has been completed](https://ccs.vertcoin.io/proposals/code-signing-cert.html) and developers for Vertcoin now have a [code signing certificate!](https://github.com/vertcoin-project/vertcoin-core/pull/167)
 
