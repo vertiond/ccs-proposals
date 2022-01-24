@@ -2,7 +2,7 @@
 layout: fr
 title: Apple Developer Program Membership
 author: vertion
-date: January, 24, 2022
+date: January 24, 2022
 amount: 375
 milestones:
   - name: Apple Developer Program Membership (1 year)
