@@ -21,8 +21,6 @@ A giveaway has been completed for each day in December! It was quite a success a
 
 (payout was late as I did not request the payout due to being busy with other stuff, otherwise the CCS team would have been able to accommodate me straight away).
 
-Funding address (DO NOT SEND HERE ANYMORE): [vtc1qptl8hu9wvy8qyhljngtxx69vaxfrg5t3tx2z99r69dumf33juq6s4nzv9e](https://chainz.cryptoid.info/vtc/address.dws?vtc1qptl8hu9wvy8qyhljngtxx69vaxfrg5t3tx2z99r69dumf33juq6s4nzv9e.htm)
-
 # What the proposal is about.
 This proposal is for a Twitter giveaway using the hashtag "#VTCember" in order to market the halving as well as celebrations for the holiday period.
 As the halving will reduce the block reward from 25 VTC to 12.5 VTC, it would be symbolic to give away 12.5 VTC.
@@ -57,5 +55,3 @@ Hopefully, this twitter marketing will serve its purpose to show many users Vert
 The milestone is for all necessary funds contributed to be given away by the end of 2021. This will be complete once a giveaway has been done for each day of December 2021. Excess funds may be forwarded to future proposals.
 
 Funding can continue past 31st December 2021 as my own funds will be used, and I only expect to receive the payout after the event is over. Any excess funds will not be kept and can be redirected to other efforts
-
-Funding address (DO NOT SEND HERE ANYMORE): [vtc1qptl8hu9wvy8qyhljngtxx69vaxfrg5t3tx2z99r69dumf33juq6s4nzv9e](https://chainz.cryptoid.info/vtc/address.dws?vtc1qptl8hu9wvy8qyhljngtxx69vaxfrg5t3tx2z99r69dumf33juq6s4nzv9e.htm)
