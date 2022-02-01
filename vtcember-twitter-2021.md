@@ -12,7 +12,7 @@ milestones:
 payouts:
   - date: December 10, 2021
     amount: 1000.9797
-  - date: 
+  - date: February 1, 2022
     amount: 1180.1212
 ---
 
