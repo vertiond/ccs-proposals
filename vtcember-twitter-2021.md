@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: VTCember Twitter Giveaway 2021
 author: Alvie
 date: November 22, 2021
@@ -7,20 +7,21 @@ amount: 1162.5
 milestones:
   - name: Giveaway completed (2021-12-31)
     funds: 100%
-    done:
+    done: January 1, 2022
     status: unfinished
 payouts:
   - date: December 10, 2021
     amount: 1000.9797
-  - date:
-    amount:
+  - date: 
+    amount: 1180.1212
 ---
 
-# SECOND GOAL REACHED! GIVEAWAY WILL PROCEED; PLEASE READ
-The second goal of 1162.5 VTC has been reached and we can go ahead with the giveaway!  
-It has been stable around the second goal (1180.22 VTC) which allows 3 winners per day :) The proposal will now be moved from funding required to Work In Progress. The giveaways have started on https://twitter.com/cryptovertedcom
+# GIVEAWAY HAS COMPLETED
+A giveaway has been completed for each day in December! It was quite a success and very fun to do :) I've learned quite a bit from it and look forward to doing it again!
 
-Funding address: [vtc1qptl8hu9wvy8qyhljngtxx69vaxfrg5t3tx2z99r69dumf33juq6s4nzv9e](https://chainz.cryptoid.info/vtc/address.dws?vtc1qptl8hu9wvy8qyhljngtxx69vaxfrg5t3tx2z99r69dumf33juq6s4nzv9e.htm)
+(payout was late as I did not request the payout due to being busy with other stuff, otherwise the CCS team would have been able to accommodate me straight away).
+
+Funding address (DO NOT SEND HERE ANYMORE): [vtc1qptl8hu9wvy8qyhljngtxx69vaxfrg5t3tx2z99r69dumf33juq6s4nzv9e](https://chainz.cryptoid.info/vtc/address.dws?vtc1qptl8hu9wvy8qyhljngtxx69vaxfrg5t3tx2z99r69dumf33juq6s4nzv9e.htm)
 
 # What the proposal is about.
 This proposal is for a Twitter giveaway using the hashtag "#VTCember" in order to market the halving as well as celebrations for the holiday period.
@@ -57,4 +58,4 @@ The milestone is for all necessary funds contributed to be given away by the end
 
 Funding can continue past 31st December 2021 as my own funds will be used, and I only expect to receive the payout after the event is over. Any excess funds will not be kept and can be redirected to other efforts
 
-Funding address: [vtc1qptl8hu9wvy8qyhljngtxx69vaxfrg5t3tx2z99r69dumf33juq6s4nzv9e](https://chainz.cryptoid.info/vtc/address.dws?vtc1qptl8hu9wvy8qyhljngtxx69vaxfrg5t3tx2z99r69dumf33juq6s4nzv9e.htm)
+Funding address (DO NOT SEND HERE ANYMORE): [vtc1qptl8hu9wvy8qyhljngtxx69vaxfrg5t3tx2z99r69dumf33juq6s4nzv9e](https://chainz.cryptoid.info/vtc/address.dws?vtc1qptl8hu9wvy8qyhljngtxx69vaxfrg5t3tx2z99r69dumf33juq6s4nzv9e.htm)
