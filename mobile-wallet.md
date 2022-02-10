@@ -21,3 +21,6 @@ Coinomi only interacts with their own company-run servers meaning that all activ
 
 ### What to expect
 Once complete, it will be submitted to the Google Play Store and Apple App Store.  While being available on the Play Store is likely, being available on the App Store is up to Apple.  Apple has been known to be stringent with what they deem as approved cryptocurrencies as evidenced by the last attempt by Vertcoin developers to submit a wallet.  Years have passed however and a new organzation is being utilized to sign and submit the App so possibly this time will be different.  Regardless, a downloadable APK from the Vertcoin-Project Github repository will be guaranteed.
+
+### Maintenance and cost
+As long as I am the maintainer, this wallet will be updated for future forks and other changes to consensus.  The cost covers the initial work, testing, future maintenance as well as support.
