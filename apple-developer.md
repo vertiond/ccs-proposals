@@ -15,8 +15,10 @@ payouts:
 ---
 
 # Updates
-- January 24, 2022 - Apple Developer Program membership paid and waiting on final approval 
 
+- Waiting for usage in Vertcoin software before moving to completed proposals
+- January 25, 2022 - Final approval received
+- January 24, 2022 - Apple Developer Program membership paid and waiting on final approval
 
 # Proposal
 
