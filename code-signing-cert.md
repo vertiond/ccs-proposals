@@ -14,10 +14,8 @@ milestones:
     done: January 21, 2022
     status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: January 25, 2022
+    amount: 600
 ---
 # Updates
 
