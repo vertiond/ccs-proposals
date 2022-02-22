@@ -14,7 +14,7 @@ payouts:
     amount:
 ---
 # Proposal
-While solutions like Coinomi have long been the go-to for a mobile wallet, many have expressed interest in a Vertcoin branded mobile wallet.  The wallet I am proposing will be a fork of an existing wallet software, [Moonshine](https://github.com/coreyphillips/moonshine), which builds for Android and iOS.  It will use a BIP39 seed and has the ability to be multi-coin should the community decide so.
+While solutions like Coinomi have long been the go-to for a mobile wallet, many have expressed interest in a Vertcoin branded mobile wallet.  The wallet I am proposing will be a fork of an existing wallet software, [BlueWallet](https://github.com/BlueWallet/BlueWallet), which builds for Android and iOS.  Features will include using a BIP39 seed, hardware wallet compatibility, watch-only and multisig wallet support and future potential for lightning wallet support.
 
 ### How will this be different than Coinomi?
 Coinomi only interacts with their own company-run servers meaning that all activity from using their wallets is known to them.  This mobile wallet will provide greater privacy by connecting to our existing community-run ElectrumX servers already being used in [Electrum-VTC](https://github.com/vertcoin-project/electrum) as well as allowing the option to connect to your own [ElectrumX server](https://github.com/spesmilo/electrumx/).
