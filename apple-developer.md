@@ -7,8 +7,8 @@ amount: 375
 milestones:
   - name: Apple Developer Program Membership (1 year)
     funds: 375 VTC
-    done:
-    status: unfinished
+    done: March 17, 2022
+    status: finished
 payouts:
   - date:
     amount:
@@ -16,6 +16,7 @@ payouts:
 
 # Updates
 
+- March 17, 2022 - [electrum-vtc-v4.2.0-osx](https://github.com/vertcoin-project/electrum/releases/tag/v4.2.0) is signed
 - Waiting for usage in Vertcoin software before moving to completed proposals
 - January 25, 2022 - Final approval received
 - January 24, 2022 - Apple Developer Program membership paid and waiting on final approval
