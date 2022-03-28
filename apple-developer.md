@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Apple Developer Program Membership
 author: vertion
 date: January 24, 2022
@@ -10,8 +10,8 @@ milestones:
     done: March 17, 2022
     status: finished
 payouts:
-  - date:
-    amount:
+  - date: March 28, 2022
+    amount: 375 VTC
 ---
 
 # Updates
