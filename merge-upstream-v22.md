@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Merge in upstream Bitcoin v22.0 to Vertcoin-Core
 author: vertion
 date: December 27, 2021
