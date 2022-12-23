@@ -9,7 +9,7 @@ milestones:
   funds: 2300 VTC
   done: 
   status: unfinished
-  payouts:
+payouts:
 - date: 
   amount: 
 ---
