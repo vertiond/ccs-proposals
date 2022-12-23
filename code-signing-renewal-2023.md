@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Renew Codesigning Certificates 2023
 author: vertion
 date: December 22, 2022
