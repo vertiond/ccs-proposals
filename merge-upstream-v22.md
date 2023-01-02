@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Merge in upstream Bitcoin v22.0 to Vertcoin-Core
 author: vertion
 date: December 27, 2021
@@ -7,8 +7,8 @@ amount: 10000
 milestones:
 - name: Reviewed and merged into Vertcoin-Core
   funds: 10000 VTC
-  done:
-  status: unfinished
+  done: December 31, 2022
+  status: finished
 payouts:
 - date:
   amount:
