@@ -8,7 +8,7 @@ milestones:
   - name: Giveaway completed (2021-12-31)
     funds: 100%
     done: January 1, 2022
-    status: unfinished
+    status: finished
 payouts:
   - date: December 10, 2021
     amount: 1000.9797
