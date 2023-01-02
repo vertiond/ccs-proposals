@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Renew Codesigning Certificates 2023
 author: vertion
 date: December 22, 2022
@@ -7,8 +7,8 @@ amount: 2300
 milestones:
 - name: Certificates renewed
   funds: 2300 VTC
-  done: 
-  status: unfinished
+  done: January 1, 2023
+  status: finished
 payouts:
 - date: 
   amount: 
