@@ -3,7 +3,7 @@ layout: fr
 title: Development of vertcion.io website
 author: docccjr
 date: january 6, 2023
-amount: 5000 VTC
+amount: 5000
 milestones:
   - name: Cover basic costs - Milestone 1
     funds: 50% (2500 VTC)
