@@ -19,6 +19,7 @@ payouts:
   - date:
     amount:
 ---
+
 The greatest marketing resource for Vertcoin ever!
 The brand new website vertcoin.io will be the GREATEST marketing resource for Vertcoin ever, but it is not free to develope and maintain. The website is live and has been live for over 1 year so this is an ongoing project. I have expenses on the domain, server, licenses + time spent. The goal is to do regular maintenance and development on the website and add new content, features, functonality and do some heavy search engine optimization - AND SPREAD THE WORD!
 
